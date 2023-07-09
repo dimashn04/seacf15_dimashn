@@ -30,6 +30,10 @@ Build a fullstack movie ticket booking app
 ## Note
 Make sure to add your own Firebase admin credentials in the creds.json and set the EXPRESS_APP_SECRET_KEY to help with JWT
 
+To login as admin:
+username: Admin
+password: passAdmin
+
 
 ## Webapp Link
 (https://seacf15-dimashn.vercel.app/)

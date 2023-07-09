@@ -31,4 +31,4 @@ Make sure to add your own Firebase admin credentials in the creds.json and set t
 
 
 ## Webapp Link
-[Link text Here](https://seacf15-dimashn.vercel.app/)
+(https://seacf15-dimashn.vercel.app/)

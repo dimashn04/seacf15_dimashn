@@ -23,6 +23,7 @@ Build a fullstack movie ticket booking app
 - Express JS
 - Node JS
 - Firebase and Firebase Admin
+- Cloud Firestore
 - Material UI
 
 

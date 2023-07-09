@@ -1,4 +1,4 @@
-# Compfest 14 Software Engineering Academy Selection
+# Compfest 15 Software Engineering Academy Selection
 By Dimas Herjunodarpito Notoprayitno 
 NPM 2206081282
 Ilmu Komputer - Universitas Indonesia

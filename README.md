@@ -1,7 +1,7 @@
 # Compfest 14 Software Engineering Academy Selection
-## By Dimas Herjunodarpito Notoprayitno 
-## NPM 2206081282
-## Ilmu Komputer - Universitas Indonesia
+By Dimas Herjunodarpito Notoprayitno 
+NPM 2206081282
+Ilmu Komputer - Universitas Indonesia
 
 ## Task
 Build a fullstack movie ticket booking app
